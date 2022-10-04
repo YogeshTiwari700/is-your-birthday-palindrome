@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+
+}
+
+#showMessage {
+margin: 2rem;
+padding: 1rem;
+font-size: x-large;
+font-weight: bolder;
+color: black;
+}
+
+#check-btn{
+ margin: 1rem;
+padding: 1rem;
+font-size: large;
+font-weight: bolder;
+color: orange;
+background-color: azure;
+}
+
+.birth-day {
+    margin: 1rem;
+    padding: 1rem;
+    font-size: large;
+    font-weight: bolder;
+    color: orange;
+    background-color: azure;
+}
+
+p{
+    margin: 1rem;
+    padding: 1rem;
+    font-size: large;
+    font-weight: bolder;
+    color: orange;
+    background-color: azure;
+}
+
+#background-image{
+    background-image: url(/images/birday3.jpg);
+    background-size: cover;
+    height: 100vh;
+}
